@@ -1,0 +1,27 @@
+[
+  {
+    "department_name": "Accounting Department",
+    "manager": "John Smith",
+    "employee_count": 3
+  },
+  {
+    "department_name": "IT Department",
+    "manager": "Sarah Johnson",
+    "employee_count": 8
+  },
+  {
+    "department_name": "Sales Department",
+    "manager": "Emily Davis",
+    "employee_count": 2
+  },
+  {
+    "department_name": "Marketing Department",
+    "manager": "Mike Jackman",
+    "employee_count": 3
+  },
+  {
+    "department_name": "Human Resources Department",
+    "manager": "Jessica Thompson",
+    "employee_count": 2
+  }
+]
